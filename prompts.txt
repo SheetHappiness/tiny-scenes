@@ -97,3 +97,4 @@ Write a short scene in a library that never closes where the lights turn on in a
 Write a short scene in a hallway of numbered doors where a clock begins counting backward.
 Write a short scene at a deserted railway platform where a tiny lie becomes impossible to maintain.
 Write a short scene at a deserted railway platform where a lost key opens something unexpected.
+Write a short scene in a cafe with only one table where one object changes color whenever someone speaks.
