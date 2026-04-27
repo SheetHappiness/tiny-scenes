@@ -110,3 +110,4 @@ Write a short scene in a hallway of numbered doors where a written message disap
 Write a short scene inside an observatory before sunrise where a character must choose between two harmless-looking doors.
 Write a short scene at a market just before closing where the lights turn on in a building believed to be empty.
 Write a short scene at a cinema after the last screening where two strangers realize they share the same memory.
+Write a short scene at a cinema after the last screening where the lights turn on in a building believed to be empty.
